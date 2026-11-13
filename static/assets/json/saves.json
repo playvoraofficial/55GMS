@@ -293,6 +293,13 @@
    "frame": "/misc/basketbros-io/index.html",
    "status": "observed"
   },
+  "beauty-salon": {
+   "id": "beauty-salon",
+   "name": "Beauty Salon",
+   "play": "/misc/play/?title=Beauty%20Salon&link=beauty-salon",
+   "frame": "/misc/beauty-salon/index.html",
+   "status": "observed"
+  },
   "bee-swarm-simulator": {
    "id": "bee-swarm-simulator",
    "name": "Bee Swarm Simulator",
@@ -501,6 +508,13 @@
    "frame": "/misc/brain-test/index.html",
    "status": "observed"
   },
+  "brainrot-miner": {
+   "id": "brainrot-miner",
+   "name": "Brainrot Miner",
+   "play": "/misc/play/?title=Brainrot%20Miner&link=brainrot-miner",
+   "frame": "/misc/brainrot-miner/index.html",
+   "status": "observed"
+  },
   "brawl": {
    "id": "brawl",
    "name": "Brawl Simulator 3D",
@@ -638,6 +652,20 @@
    "name": "Core Ball",
    "play": "/misc/play/?title=Core%20Ball&link=core-ball",
    "frame": "/misc/core-ball/index.html",
+   "status": "observed"
+  },
+  "count-control-legends": {
+   "id": "count-control-legends",
+   "name": "Count Control Legends",
+   "play": "/misc/play/?title=Count%20Control%20Legends&link=count-control-legends",
+   "frame": "/misc/count-control-legends/index.html",
+   "status": "observed"
+  },
+  "country-balls-world-war": {
+   "id": "country-balls-world-war",
+   "name": "Country Balls World War",
+   "play": "/misc/play/?title=Country%20Balls%20World%20War&link=country-balls-world-war",
+   "frame": "/misc/country-balls-world-war/index.html",
    "status": "observed"
   },
   "crazy-bikes": {
@@ -1067,6 +1095,13 @@
    "name": "Fear Response",
    "play": "/misc/play/?title=Fear%20Response&link=fear-response",
    "frame": "/misc/fear-response/index.html",
+   "status": "observed"
+  },
+  "find-the-needle-in-haystack": {
+   "id": "find-the-needle-in-haystack",
+   "name": "Find The Needle in Haystack",
+   "play": "/misc/play/?title=Find%20The%20Needle%20in%20Haystack&link=find-the-needle-in-haystack",
+   "frame": "/misc/find-the-needle-in-haystack/index.html",
    "status": "observed"
   },
   "fish-eat-fish": {
@@ -2246,6 +2281,13 @@
    "frame": "/misc/nsr-street-car-racing/index.html",
    "status": "observed"
   },
+  "nuts-and-bolts-screwing-puzzle": {
+   "id": "nuts-and-bolts-screwing-puzzle",
+   "name": "Nuts and Bolts: Screwing Puzzle",
+   "play": "/misc/play/?title=Nuts%20and%20Bolts%3A%20Screwing%20Puzzle&link=nuts-and-bolts-screwing-puzzle",
+   "frame": "/misc/nuts-and-bolts-screwing-puzzle/index.html",
+   "status": "observed"
+  },
   "nzp": {
    "id": "nzp",
    "name": "Nazi Zombies: Portable",
@@ -2852,6 +2894,13 @@
    "frame": "/misc/sausage-flip/index.html",
    "status": "observed"
   },
+  "scary-teacher-3d": {
+   "id": "scary-teacher-3d",
+   "name": "Scary Teacher 3D",
+   "play": "/misc/play/?title=Scary%20Teacher%203D&link=scary-teacher-3d",
+   "frame": "/misc/scary-teacher-3d/index.html",
+   "status": "observed"
+  },
   "school-cleaning": {
    "id": "school-cleaning",
    "name": "School Cleaning",
@@ -2965,6 +3014,13 @@
      "/sandbox"
     ]
    }
+  },
+  "snow-plow": {
+   "id": "snow-plow",
+   "name": "Snow Plow",
+   "play": "/misc/play/?title=Snow%20Plow&link=snow-plow",
+   "frame": "/misc/snow-plow/index.html",
+   "status": "observed"
   },
   "snow-train-odyssey": {
    "id": "snow-train-odyssey",
@@ -3152,6 +3208,13 @@
      "localforage"
     ]
    }
+  },
+  "stickman-climb": {
+   "id": "stickman-climb",
+   "name": "Stickman Climb",
+   "play": "/misc/play/?title=Stickman%20Climb&link=stickman-climb",
+   "frame": "/misc/stickman-climb/index.html",
+   "status": "observed"
   },
   "stickman-climb-2": {
    "id": "stickman-climb-2",
@@ -3379,6 +3442,13 @@
    "name": "Thats not my Neighbor",
    "play": "/misc/play/?title=Thats%20not%20my%20Neighbor&link=tnmn",
    "frame": "/misc/tnmn/index.html",
+   "status": "observed"
+  },
+  "tnt-sandbox": {
+   "id": "tnt-sandbox",
+   "name": "TNT Sandbox",
+   "play": "/misc/play/?title=TNT%20Sandbox&link=tnt-sandbox",
+   "frame": "/misc/tnt-sandbox/index.html",
    "status": "observed"
   },
   "tombofthemask": {

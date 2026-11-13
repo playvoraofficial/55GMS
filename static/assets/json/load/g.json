@@ -3278,5 +3278,46 @@
     "image": "https://cdn.jsdelivr.net/gh/55gms/assets@349c81bdc5d3cce0505f7952a6261996409809f2/misc/brainrot-miner/img.webp",
     "preview": "/img/videos/preview/brainrotminer.mp4",
     "usesProxy": false
+  },
+  {
+    "name": "Find The Needle in Haystack",
+    "author": "Sapling",
+    "image": "https://cdn.jsdelivr.net/gh/55gms/assets@eb3aa2fb10a341a6121dac28bd5316e3736038f9/misc/find-the-needle-in-haystack/img.webp",
+    "usesProxy": false
+  },
+  {
+    "name": "Stickman Climb",
+    "author": "No Pressure Studios",
+    "image": "https://cdn.jsdelivr.net/gh/55gms/assets@ffd1ca7360bc6e6d9dc0b7d4faf5f6c8e502c1b9/misc/stickman-climb/img.webp",
+    "preview": "/img/videos/preview/stickmanclimb.mp4",
+    "usesProxy": false
+  },
+  {
+    "name": "TNT Sandbox",
+    "author": "Kachki Productions",
+    "image": "https://cdn.jsdelivr.net/gh/55gms/assets@2dd0c88bc21229898473ccccb46f3facae27c222/misc/tnt-sandbox/img.webp",
+    "preview": "/img/videos/preview/tntsandbox.mp4",
+    "usesProxy": false
+  },
+  {
+    "name": "Snow Plow",
+    "author": "Camu",
+    "image": "https://cdn.jsdelivr.net/gh/55gms/assets@fba53ab9d8ee99d985e5fb3668d45678bf8a4ede/misc/snow-plow/img.webp",
+    "preview": "/img/videos/preview/snowplow.mp4",
+    "usesProxy": false
+  },
+  {
+    "name": "Country Balls World War",
+    "author": "koro.games",
+    "image": "https://cdn.jsdelivr.net/gh/55gms/assets@bc2dda70f52868f8a0dccd6a73788290c0aca271/misc/country-balls-world-war/img.webp",
+    "preview": "/img/videos/preview/countryballsworldwar.mp4",
+    "usesProxy": false
+  },
+  {
+    "name": "Nuts and Bolts: Screwing Puzzle",
+    "author": "Unico Studio",
+    "image": "https://cdn.jsdelivr.net/gh/55gms/assets@f2091c3b0e61526a82971451c2c3a9db382d82ec/misc/nuts-and-bolts-screwing-puzzle/img.webp",
+    "preview": "/img/videos/preview/nutsandboltsscrewingpuzzle.mp4",
+    "usesProxy": false
   }
 ]
